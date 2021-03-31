@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o CMakeFiles/a.out.gtest.dir/gtest/proj5tests.cpp.o CMakeFiles/a.out.gtest.dir/gtest/smallgr.cpp.o CMakeFiles/a.out.gtest.dir/app/proj5.cpp.o  -o bin/a.out.gtest -Wl,-rpath,/home/ics46/projects/proj5/lib -lpthread -lc++ ../lib/libverifier.so -lgtest -lgtest_main 

@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.exp.dir/exp/expmain.cpp.o CMakeFiles/a.out.exp.dir/app/proj1.cpp.o  -o bin/a.out.exp -Wl,-rpath,/home/ics46/projects/proj1/lib -lpthread -lc++ ../lib/libverifier.so 

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ics46/projects/proj2/app/LLQueue.hpp
+runtimeexcept.hpp
+/home/ics46/projects/proj2/app/runtimeexcept.hpp
+
+/home/ics46/projects/proj2/app/main.cpp
+
+/home/ics46/projects/proj2/app/proj2.cpp
+proj2.hpp
+/home/ics46/projects/proj2/app/proj2.hpp
+LLQueue.hpp
+/home/ics46/projects/proj2/app/LLQueue.hpp
+vector
+-
+
+/home/ics46/projects/proj2/app/proj2.hpp
+vector
+-
+
+/home/ics46/projects/proj2/app/runtimeexcept.hpp
+string
+-
+

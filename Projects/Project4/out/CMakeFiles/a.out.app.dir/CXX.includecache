@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ics46/projects/proj4/app/MyAVLTree.hpp
+runtimeexcept.hpp
+/home/ics46/projects/proj4/app/runtimeexcept.hpp
+string
+-
+vector
+-
+
+/home/ics46/projects/proj4/app/main.cpp
+fstream
+-
+iostream
+-
+
+/home/ics46/projects/proj4/app/proj4.cpp
+fstream
+-
+iostream
+-
+stdio.h
+-
+string
+-
+sstream
+-
+proj4.hpp
+/home/ics46/projects/proj4/app/proj4.hpp
+
+/home/ics46/projects/proj4/app/proj4.hpp
+iostream
+-
+MyAVLTree.hpp
+/home/ics46/projects/proj4/app/MyAVLTree.hpp
+
+/home/ics46/projects/proj4/app/runtimeexcept.hpp
+string
+-
+
